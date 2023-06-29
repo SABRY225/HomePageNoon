@@ -1,0 +1,352 @@
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.flex{
+    display: flex;
+}
+.colo{
+    background-color: rgb(254, 238, 0);
+
+}
+header{
+    margin: -8px;
+    padding: 10px;
+    border: 0px solid black;
+    background-color: rgb(254, 238, 0);
+}
+.header_0{
+    padding: 10px 50px 0px 10px;
+    background-color: rgb(254, 238, 0);
+}
+.VhYJf{
+    background-color: rgb(254, 238, 0);
+
+}
+.dGUoVX{
+    padding: 10px;
+}
+.header_1{
+    padding: 10px 10px 0px 10px;
+    background-color: rgb(254, 238, 0);
+
+
+}
+.header_2{
+    padding: 10px 500px 10px 0px;
+    position: relative;
+    right: 50px;
+}
+
+.c{
+    position: relative;
+    top: 5px;
+    right: 0px;
+    width: 30px;
+    height: 5px;
+}
+.header_3{
+    color: black;
+    background-color: rgb(0, 0, 0);
+    height: 25px;
+    padding: 0px 1px 0px 0.5px;
+    margin: 0px 15px 0px 15px;
+}
+.header_00{
+    position: absolute;
+    top: 20px;
+    right:210px; 
+    background-color: rgb(254, 238, 0);
+}
+.sign{
+    position: relative;
+    top: 10px;
+    right: 50px;
+}
+.cart{
+    position: relative;
+    top: 10px;
+    right: 50px;
+    
+
+}
+.cartTitle{
+    position: relative;
+    top: 10px;
+    right: 40px;
+    background-color: rgb(254, 238, 0);
+}
+.sc-afe2674f-1 {
+    position: absolute;
+    top: 20px;
+    right: 110px;
+    background-color: rgb(254, 238, 0); 
+}
+.sc-afe2674f-2 {
+    position: absolute;
+    top: 20px;
+    left: 370px;
+    background-color: rgb(254, 238, 0); 
+}
+.cartTitle{
+    position: relative;
+    top: 3px;
+    right: 45px;
+    background-color: rgb(254, 238, 0);
+}
+nav{
+    margin: -8px;
+    border: 0px solid rgba(112, 107, 107, 0.534);
+    background-color: #f7f7fa;
+    padding:3px 10px 0px 12px;
+}
+.nav{
+    padding: 10px 9px 15px 14px;
+    
+}
+.nav_0{
+    padding: 10px 40px 15px 15px;
+}
+.nav_1{
+    background-color: rgba(105, 101, 101, 0.616);
+    height: 25px;
+    padding: 0px 2px 0px 0px;
+    margin: 0px 0px 0px 70px;
+}
+section{
+    border: 0px solid  rgb(63, 60, 60);
+    padding: 12px;
+    margin: 8px 25px 30px 25px;
+}
+.section_0{
+    margin: -11px;
+}
+.section_1{
+    width: 100%;
+    height: 100%;
+    padding-bottom: 15px;
+}
+.section_2{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    top: -7px;
+}
+.section_3{
+    width: 60%;
+    height: 60%;
+    padding: 30px 0px 0px 5px;
+} 
+.fc{
+    width: 100%;
+    height: 100%;
+    margin: 10px 0px ;
+} 
+.section_4{
+    padding: 10px 15px 0px 5px;
+}
+.scs{
+    border: 0px solid black;
+    padding: 20px;
+    margin: 20px 20px 0px 20px;
+}
+.scs_0{
+    border: 0px solid black;
+    padding: 10px;
+    margin: 0px;
+    font-size: 20px; 
+}
+.scs_1{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 0px;
+    position: relative;
+    left: 1000px;   
+}
+.ss{
+    border: 0px solid rgb(0, 0, 0);
+    padding: 10px;
+    margin: 50px 0px 10px 0px;  
+}
+.star{
+    width: 15px;
+    height: 15px;
+    position: relative;
+    top: 0px;
+    left:50px;
+}
+.star_0{
+    width: 15px;
+    height: 15px;
+    position: relative;
+    top: 0px;
+    left: 30px;
+}
+.star_1{
+    width: 15px;
+    height: 15px;
+    position: relative;
+    top: 0px;
+    left:50px;
+}
+.star_2{
+    width: 15px;
+    height: 15px;
+    position: relative;
+    top: 0px;
+    left:50px;
+}
+.star_3{
+    width: 15px;
+    height: 15px;
+    position: relative;
+    top: 0px;
+    left:50px;
+}
+u{
+    text-decoration: line-through;
+    color: rgb(126, 133, 155);
+    margin-right: 4px;
+}
+h3{
+    color: rgb(14, 175, 49);
+}
+i{
+    background-color: yellow;
+    font-size: 20px;
+
+}
+h6{
+    font-size: 15px;
+    color: coral;
+    position: relative;
+    top: -55px;
+    left: 130px;
+}
+p{
+    font-size: larger;
+}
+.i{
+    font-size: 15px;
+    color: coral;
+    position: relative;
+    top: -55px;
+    left: 120px;
+} 
+.i_0{
+    font-size: 15px;
+    color: coral;
+    position: relative;
+    top: -55px;
+    left: 130px;
+}
+.i_1{
+    font-size: 15px;
+    color: coral;
+    position: relative;
+    top: -55px;
+    left: 130px;
+}
+.i_2{
+    font-size: 15px;
+    color: coral;
+    position: relative;
+    top: -55px;
+    left: 130px;
+    width:50%;
+}
+.sss{
+    color: white;
+}
+.scs_01{
+    width: 25%;
+    position: relative;
+    right: 40px;
+}
+.scs_001{
+    padding: -100px;
+    margin: 15px;
+}
+.dsa{
+    margin: 20px 50px 20px 30px;
+}
+.dsa1{
+    margin: 20px 30px 20px 90px;
+}
+.cpu{
+    background-color: darkgray;
+    margin: -11px;
+}
+.dsa2{
+    margin: 5px ;
+    position: relative;
+    left: 25px;
+}
+.cpu1{
+    background-color: rgb(112, 190, 214);
+    margin: -11px;
+}
+
+.gat_0{
+padding: 10px;
+
+}
+.gat_1{
+margin: 20px 10px;
+}
+.gat{
+    padding: 10px;
+}
+footer{
+    border: 0px solid black;
+    padding: 0px;
+    margin: -11px;
+    border-top: 1px solid rgb(226, 229, 241);
+    padding-bottom: 20px;
+}
+.footer{
+    padding: 10px 50px;
+    font-size: 11px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.footer_0{
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(145, 137, 137);
+}
+.footer_1{
+    font-size: 14px;
+    padding: 0px 50px;
+}
+.footer_01{
+    font-size: 14px;
+    padding: 0px 200px;
+
+}
+.footer_02{
+    font-size: 14px;
+    padding: 0px 20px;
+
+}
+.ff{
+    padding-left: 20px;
+}
+.over{
+    overflow: hidden;
+}
+.over_1{
+    overflow-x: scroll;
+}
+.dvd{
+    padding: 40px;
+}
+.d{
+    border: 1px solid black;
+    background-color: darkgray;
+}
+.dvd_0{
+    padding: 5px 15px;
+    margin: 20px;
+}
